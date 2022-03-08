@@ -38,11 +38,12 @@ This data can also help to understand varioues properties and their demands.
 The review column can be helpful to get insights from different neighbourhoods.
 
 ### Data Visualization Methods Used
-* Time Series Lne graphs
 * Pie Chart Plots
-* World Map Chloropeth Plots
-* Heat maps
-* Size-Heat maps
+* Count Plot
+* Bar Plot
+* Scatter Plot
+* Heatmap
+
 
 ### Python Libraries used
 For Graphing : 
