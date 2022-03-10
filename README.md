@@ -177,8 +177,8 @@ This Airbnb-NYC(2019) dataset is very informative dataset having 48895 rows and 
 
 |Name     |  Email   | 
 |---------|-----------------|
-|Mohd Sharik()                                                              |  mohdsharikias99@gmail.com  |
-|Price Nayak                                                                |  princenayak0129@gmail.com  |
+|Mohd Sharik   (current path)                                               |  mohdsharikias99@gmail.com  |
+|Price Nayak (https://github.com/Prince0420/Airbnb-NYC-Data-Analysis)       |  princenayak0129@gmail.com  |
 |Gokul Jagannadh (https://github.com/gokuljagannadh/Airbnb_Booking_Analysis)|  gokuljagannadh@gmail.com   |
 
 
